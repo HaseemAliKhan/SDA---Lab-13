@@ -1,0 +1,8 @@
+{
+  "name": "SDA Lab 13 laon Docker",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
